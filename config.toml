@@ -1,0 +1,42 @@
+baseURL = "https://michielvandermeer.com/"
+languageCode = "en"
+title = "mvdm.com"
+theme = "casper3"
+
+paginate = 3
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+[params]
+  owner = "Michiel van der Meer"
+  background = "/images/blog-cover.jpg"
+  logo = "/images/logo-full.png"
+  favicon = "/images/favicon.ico"
+  twitter = "https://twitter.com/mvdmsoftware"
+  github = "https://github.com/mvdmsoftware"
+  linkedin = "https://www.linkedin.com/in/michielmeer/"
+  description = "Personal blog and website of Michiel van der Meer"
+  mainSections = ["blog", "projects"]
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 20
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 30
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"

@@ -1,0 +1,8 @@
+.theme-credit {
+    color: rgba(255, 255, 255, 0.5);  font-size: 10px;
+}
+
+.theme-credit a {
+    color: rgba(255, 255, 255, 0.5);
+    text-decoration: none;
+}
