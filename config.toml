@@ -1,4 +1,4 @@
-baseURL = "https://michielvandermeer.com/"
+baseURL = "/"
 languageCode = "en"
 title = "mvdm.com"
 theme = "casper3"
