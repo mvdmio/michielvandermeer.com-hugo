@@ -2,11 +2,11 @@ baseURL = "/"
 languageCode = "en"
 title = "mvdm.com"
 theme = "casper3"
-
 paginate = 3
-DefaultContentLanguage = "en"
+defaultContentLanguage  = "en"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
+googleAnalytics = ""
 
 [params]
   owner = "Michiel van der Meer"
