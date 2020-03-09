@@ -18,12 +18,12 @@ To support this in ASP.NET Core API projects, I propose the following model.
 - The public API triggers the asynchronous operation and passes it the `operationId`
 - The asynchronous operation updates the status of the operation as-needed. In the example this is done once (in-progress).
 - The client checks the status of the operation at any time and receives the latest status as a response
-- When done, the asynchronous operation calls the `Complete()` method on the AOF API for the opeartion
+- When done, the asynchronous operation calls the `Complete()` method on the AOF API for the operation
 - When the client retrieves the status of the operation after `complete()` has been called, the client will receive the `Completed` state. This signals the client to continue the user flow.
 
 ![Asynchronous Operation Framework](/images/blog/asynchronous_operation_framework.png)
 
 Some additional requirements:
-- The AOF API should be able to combine the state of multiple operations if a single unit-of-work involves multiple seperate asynchronous operations.
+- The AOF API should be able to combine the state of multiple operations if a single unit-of-work involves multiple separate asynchronous operations.
 - The AOF API should also have a `Error()`, `Faulted()` or `Fail()` method so that operations can be marked as failed.
 - `SetState()` can be used to set any state. The only named states that the AOF API specifies are: `Created`, `Completed` and `Failed`. All other states are at the descression of the clients.
