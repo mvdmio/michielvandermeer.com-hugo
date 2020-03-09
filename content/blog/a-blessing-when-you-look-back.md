@@ -2,11 +2,10 @@
 title = "A Blessing When You Look Back"
 date = 2019-11-21
 feature_image = "/images/blog/person-standing-on-top-of-hill-705075.jpg"
+summary = "A short amateur poem first described in my new years journal entry of 2016."
 author = "Michiel van der Meer"
 tags = ["Personal"]
 +++
-
-A short amateur poem first described in my new years journal entry of 2016.
 
 Life, when walking through<br>
 is like a barren wasteland.<br>
