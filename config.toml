@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en"
-title = "mvdm.com"
+title = "mvdm.io"
 theme = "casper3"
 paginate = 3
 defaultContentLanguage  = "en"
