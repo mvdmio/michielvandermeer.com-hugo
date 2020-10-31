@@ -35,6 +35,11 @@ googleAnalytics = ""
     name = "Blog"
     url = "/blog/"
     weight = 30
+  [[menu.main]]
+    identifier = "commonplace"
+    name = "Commonplace"
+    url = "/commonplace/"
+    weight = 40
 
 [taxonomies]
 category = "categories"

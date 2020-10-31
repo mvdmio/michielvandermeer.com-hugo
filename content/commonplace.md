@@ -1,8 +1,7 @@
 +++
 title = "Commonplace"
-date = 2020-04-01
+aliases = ["commonplace"]
 feature_image = "/images/projects/commonplace.jpg"
-author = "Michiel van der Meer"
 +++
 
 Commonplace is a project that I started because I wanted a new place to organize my life, without having to worry about my data being sold to the highest bidder.
