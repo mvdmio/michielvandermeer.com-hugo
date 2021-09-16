@@ -1,4 +1,4 @@
-# michielvandermeer.com
+# mvdm.io
 
 A personal website built with [Hugo](https://gohugo.io/) and published using [Netlify](https://www.netlify.com/).
 
