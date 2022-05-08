@@ -3,8 +3,8 @@
 {{ define "main" }}
 
 <header class="site-home-header">
+   {{- partial "site-nav.html" . -}}
    <div class="inner">
-      {{- partial "site-nav.html" . -}}
       <div class="site-header-content">
          <h1 class="site-title">
             {{ if $.Site.Params.logo }}

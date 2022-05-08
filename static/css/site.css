@@ -40,7 +40,14 @@
 }
 
 .site-nav {
-   background: #191b1f;
+   background: #090a0b;
+   
+}
+
+.site-nav-content {
+   margin: 0 auto;
+   max-width: 1040px;
+   width: 100%;
 }
 
 .site-description {
