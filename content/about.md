@@ -11,6 +11,6 @@ I'm also working on a personal project called 'Commonplace'. You can find it [he
 
 I write about various topics every now and then. You can find all my posts [here](/blog).
 
-You can contact me through [LinkedIn](https://www.linkedin.com/in/michielmeer/) or via [email](mailto:mvdm@hey.com).
+You can contact me through [LinkedIn](https://www.linkedin.com/in/michielmeer/) or via [email](mailto:michiel@mvdm.io).
 
 {{< figure src="/images/mvdm.jpg" alt="Michiel van der Meer" class="about-image" >}}
