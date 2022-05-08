@@ -6,7 +6,6 @@ paginate = 3
 defaultContentLanguage  = "en"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
-googleAnalytics = ""
 
 [params]
   owner = "Michiel van der Meer"
@@ -17,7 +16,8 @@ googleAnalytics = ""
   github = "https://github.com/mvdmsoftware"
   linkedin = "https://www.linkedin.com/in/michielmeer/"
   description = "Software Development Consultancy and Freelancing"
-  mainSections = ["services", "blog", "projects"]
+  servicesSections = ["services"]
+  blogpostSections = ["blog"]
 
 [menu]
   [[menu.main]]
