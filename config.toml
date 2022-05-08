@@ -16,7 +16,7 @@ googleAnalytics = ""
   twitter = "https://twitter.com/MichielMeer"
   github = "https://github.com/mvdmsoftware"
   linkedin = "https://www.linkedin.com/in/michielmeer/"
-  description = "Personal blog and website of Michiel van der Meer"
+  description = "Freelance Software Development Consultancy"
   mainSections = ["blog", "projects"]
 
 [menu]
