@@ -1,8 +1,4 @@
-<article class="post-card post
-{{ if not (.context.Param "feature_image") }} no-image
-{{ else }}
-{{ if (eq (mod .index 6) 0) }} post-card-large {{ end }}
-{{ end }} ">
+<article class="post-card post">
 
         {{ if .context.Param "feature_image" }}
             <a class="post-card-image-link" href="{{ .context.Permalink }}">
