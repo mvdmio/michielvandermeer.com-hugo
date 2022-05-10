@@ -2,6 +2,7 @@
 title = "Database optimization"
 feature_image = "/images/services/database-optimization.jpg"
 author = "Michiel van der Meer"
+call_to_action = true
 +++
 
 Most application slow down as they're being developed. Most of the time this is because poor database optimizations. Most software developers can develop queries that work, but not queries or schemas that perform well. I can help you optimize your databases so that they perform as you expect.

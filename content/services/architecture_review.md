@@ -2,6 +2,7 @@
 title = "Architecture review"
 feature_image = "/images/services/architecture-review.jpg"
 author = "Michiel van der Meer"
+call_to_action = true
 +++
 
 I can help you review the software- and service architecture that your development team has built. This way you can be sure that you are getting the most out of the hardware that your services are running on.

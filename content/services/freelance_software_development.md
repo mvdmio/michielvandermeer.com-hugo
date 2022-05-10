@@ -2,6 +2,7 @@
 title = "Freelance Software Development"
 feature_image = "/images/services/freelance-software-development.jpg"
 author = "Michiel van der Meer"
+call_to_action = true
 +++
 
 I can help you implement new features in existing projects or even start entirely new projects. I also have an extensive network of experts to help out with any problem that I can't tackle myself. If needed I can also come by additional developers to help out with bigger projects.
