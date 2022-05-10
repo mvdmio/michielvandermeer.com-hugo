@@ -60,14 +60,14 @@
             <section class="post-full-content">
                 <div class="post-content">
                     {{ .Content }}
+                  {{ if .Param "call_to_action" }}
+                  <a class="button call-to-action" href="mailto:michiel@mvdm.io">Contact me</a>
+                  {{ end }}
                 </div>
+               
+              
             </section>
 
-            {{ if .Param call_to_action }}
-            <section>
-                <a class="button call-to-action" href="mailto:michiel@mvdm.io">Contact me</a>
-            </section>
-            {{ end }}
         </article>
 
     </div>
