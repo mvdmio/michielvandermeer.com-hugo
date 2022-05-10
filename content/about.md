@@ -14,3 +14,15 @@ I write about various topics every now and then. You can find all my posts [here
 You can contact me through [LinkedIn](https://www.linkedin.com/in/michielmeer/) or via [email](mailto:michiel@mvdm.io).
 
 {{< figure src="/images/mvdm.jpg" alt="Michiel van der Meer" class="about-image" >}}
+
+## Experience
+| Type | Experience |
+|------|------------|
+| Programming Languages | C#, Ruby, Java, HTML/CSS/JS |
+| C# Frameworks / Libraries | .NET (3.x, 4.x, Core, 5, 6), ASP.NET, WCF |
+| Java Frameworks / Libraries | Spring, JSP, Tomcat, Hazelcast |
+| Javascript Frameworks / Libraries | Angular (2-12), KnockoutJS, jQuery, AngularJS  |
+| Ruby Frameworks / Libraries | Rails, Devise, Turbo |
+| Cloud Services | Microsoft Azure, AWS |
+| Databases | MSSQL, AzureSQL, MySQL, PostgreSQL |
+| IDEs | Visual Studio, Rider, IntelliJ IDEA |
