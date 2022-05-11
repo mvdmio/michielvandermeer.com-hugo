@@ -1,6 +1,6 @@
 +++
 weight = 20
-title = "Freelance Software Development"
+title = "Freelance Software Developer"
 feature_image = "/images/services/freelance-software-development.jpg"
 author = "Michiel van der Meer"
 call_to_action = true

@@ -1,6 +1,6 @@
 +++
 weight = 10
-title = "Product Management"
+title = "Product Owner / Manager"
 feature_image = "/images/services/product-management.jpg"
 author = "Michiel van der Meer"
 call_to_action = true
