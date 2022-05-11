@@ -1,4 +1,5 @@
 +++
+weight = 100
 title = "Architecture review"
 feature_image = "/images/services/architecture-review.jpg"
 author = "Michiel van der Meer"
