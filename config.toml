@@ -15,7 +15,7 @@ footnoteReturnLinkContents = "^"
   twitter = "https://twitter.com/MichielMeer"
   github = "https://github.com/mvdmsoftware"
   linkedin = "https://www.linkedin.com/in/michielmeer/"
-  description = "Software Development Consultancy and Freelancing"
+  description = "Software Development Projects and Consultancy"
   servicesSections = ["services"]
   blogpostSections = ["blog"]
 
