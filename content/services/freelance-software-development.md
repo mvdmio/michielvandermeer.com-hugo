@@ -14,6 +14,8 @@ When the project is clear I can usually get up-and-running very quickly. Actual 
 
 I will always deliver high-quality software that is tested both with manual and automated tests. I will deliver quickly, but not quicker than possible. I usually give pointers on areas that could use some refactoring to other developers; of course it's up to them to do something with that or not.
 
+Projects can run from weeks to about a year; depending on what kind of project it is.
+
 ## About me
 
 I have more than 10 years experience as a professional software developer. I've worked on high-performance and high-tech systems in the Shipping and Horticulture industries. I have extended experience in multpile programming languages: C#, Java, Ruby, Javascript and HTML/CSS.

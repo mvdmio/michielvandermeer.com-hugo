@@ -12,7 +12,7 @@ I can get development of your products off the ground, or back on track. No matt
 
 I'll start with assessing the current state of the project and the effectiveness of the development team. With that information I'll devise a plan for areas that need improvement, if any. I'll then make sure the development team have a clear product backlog that they can use to plan their iterations. I will organize regular meetings with stakeholders, both inside the company and outside. From there I will make sure that both the development team and the organization are clear on the direction the product is heading and when to expect new deliveries.
 
-Interim projects are usually on the longer side, starting at around 3 months and running up to multiple years, depending on the size of the product, the development team and what you, the client, needs.
+Interim projects are usually on the longer side, starting at around 3 months and running up to multiple years; depending on the size of the product, the development team and what you, the client, needs.
 
 ## About me
 
