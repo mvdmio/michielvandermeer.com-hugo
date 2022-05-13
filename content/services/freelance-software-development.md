@@ -20,6 +20,8 @@ Projects can run from weeks to about a year; depending on what kind of project i
 
 I have more than 10 years experience as a professional software developer. I've worked on high-performance and high-tech systems in the Shipping and Horticulture industries. I have extended experience in multpile programming languages: C#, Java, Ruby, Javascript and HTML/CSS.
 
+You can find all of my previous projects [here](/projects). In this case, I think the [PSA Quaycrane OCR](/projects/psa-quaycrane-ocr/), [ECT Electronic Order Handling](/projects/ect-electronic-order-handling-system/) and [24green Climate Computer](/projects/climate-compute-24green/) projects are especially relevant.
+
 ## Availability
 
 Please send me an email at [michiel@mvdm.io](mailto:michiel@mvdm.io) with details of your project so that we can start working together.
