@@ -26,3 +26,5 @@ You can contact me through [LinkedIn](https://www.linkedin.com/in/michielmeer/) 
 | Cloud Services | Microsoft Azure, AWS |
 | Databases | MSSQL, AzureSQL, MySQL, PostgreSQL |
 | IDEs | Visual Studio, Rider, IntelliJ IDEA |
+| Operating Systems | Windows, Mac, Linux |
+| Virtualization | Docker, VMWare |
