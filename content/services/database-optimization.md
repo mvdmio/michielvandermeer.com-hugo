@@ -1,6 +1,6 @@
 +++
 weight = 100
-title = "Database optimization"
+title = "Database Optimization"
 feature_image = "/images/services/database-optimization.jpg"
 author = "Michiel van der Meer"
 call_to_action = true
