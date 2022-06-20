@@ -1,5 +1,5 @@
 +++
-weight = 100
+weight = 20
 title = "Azure Architecture Review"
 feature_image = "/images/services/architecture-review.jpg"
 author = "Michiel van der Meer"
