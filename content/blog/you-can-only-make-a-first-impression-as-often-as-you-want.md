@@ -1,5 +1,5 @@
 +++
-title = "You can only make a first impression as often as you want."
+title = "You can only make a first impression as often as you want"
 date = 2022-05-11
 feature_image = "/images/blog/impression.jpg"
 author = "Michiel van der Meer"

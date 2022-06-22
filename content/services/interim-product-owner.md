@@ -1,5 +1,5 @@
 +++
-weight = 10
+weight = 100
 title = "Interim Product Owner"
 feature_image = "/images/services/product-management.jpg"
 author = "Michiel van der Meer"
