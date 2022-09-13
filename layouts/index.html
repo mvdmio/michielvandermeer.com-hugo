@@ -19,19 +19,6 @@
    </div>
 </header>
 
-<main id="site-main-services" class="site-main outer">
-   <h1 class="header">Services</h1>
-   <h2 class="sub-header">What can I do for you?</h2>
-   <div class="inner posts">
-      <div class="post-feed">
-         {{ $pages := where site.RegularPages "Type" "in" site.Params.servicesSections }}
-         {{ range $index, $element := $pages }}
-         {{- partial "post-card-simple.html" (dict "context" . "index" $index "home" $.IsHome) -}}
-         {{ end }}
-      </div>
-   </div>
-</main>
-
 <main id="site-main-blogposts" class="site-main outer">
    <h1 class="header">Recent blog posts</h1>
    <h2 class="header"></h2>

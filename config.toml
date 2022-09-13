@@ -15,8 +15,7 @@ footnoteReturnLinkContents = "^"
   twitter = "https://twitter.com/MichielMeer"
   github = "https://github.com/mvdmsoftware"
   linkedin = "https://www.linkedin.com/in/michielmeer/"
-  description = "Software Development Projects and Consultancy"
-  servicesSections = ["services"]
+  description = "Tech Lead at Jewel Softare"
   blogpostSections = ["blog"]
 
 [menu]
@@ -25,11 +24,6 @@ footnoteReturnLinkContents = "^"
     name = "About"
     url = "/about/"
     weight = 10
-  [[menu.main]]
-    identifier = "services"
-    name = "Services"
-    url = "/services/"
-    weight = 20
   [[menu.main]]
     identifier = "projects"
     name = "Projects"
